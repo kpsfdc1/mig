@@ -1,1 +1,2 @@
 class file2
+main()
