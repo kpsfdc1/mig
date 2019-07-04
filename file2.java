@@ -1,2 +1,2 @@
 class file2
-main()
+main() from R1
